@@ -1,0 +1,17 @@
+
+body{
+  background-color: #333;
+  color: white;
+}
+.main-container{
+  /* border: 2px solid blue; */
+  display: flex;
+ justify-content: center;
+ /* align-items: center;
+ height: 100vh;  */
+}
+/* .center-container{
+  border: 2px solid rgb(250, 16, 16);
+ height: 500px;
+ width: 350px;
+} */
